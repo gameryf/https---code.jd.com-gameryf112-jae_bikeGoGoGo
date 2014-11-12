@@ -1,0 +1,250 @@
+{
+  "status_code": 0,
+  "status_desc": "OK",
+  "warning_code": 0,
+  "warning_desc": "",
+  "data": {
+    "total": 0,
+    "prev_id": "1311,1384012800000263",
+    "next_id": "1410,1412140912010100",
+    "page_is_last": true,
+    "datas": [
+      {
+        "result_title": "人员信息",
+		"result_type":1,
+		"more_data":0,
+        "result_data": [
+          {
+            "user_id": 22992,
+            "name": "马肖成",
+            "avatar_url": "https://www.zhisland.com/static/web/core/img/avatar.png?1409640319",
+            "phonenum": [],
+            "business_ability": [
+              {
+                "id": 26107,
+                "type": "1",
+                "title": "",
+                "bus_ability": "航空/汽车"
+              }
+            ],
+            "approve": "新疆新大方成贸易董事长"
+          },
+          {
+            "user_id": 22479,
+            "name": "王均豪",
+            "avatar_url": "https://www.zhisland.com/static/web/core/img/avatar.png?1409640319",
+            "phonenum": [
+              "2151155777"
+            ],
+            "business_ability": [
+              {
+                "id": 26337,
+                "type": "1",
+                "title": "",
+                "bus_ability": "航空/汽车"
+              }
+            ],
+            "approve": "均瑶集团总裁"
+          }
+        ]
+      },
+      {
+		"result_title": "报名参加",
+		"result_type":2,
+		"more_data":0,
+        "result_data": [
+          {
+            "result_num": 2,
+            "result_names": [
+              "杨飞",
+              "兔子"
+            ],
+            "item_data": {
+              "id": 10100,
+              "name": "创新大集",
+              "activity_type": "IT互联网",
+              "start_time": 1412140912,
+              "end_time": 1412140912,
+              "reg_time": 1412313712,
+              "location": "北京市五道口",
+              "owner": "szj1",
+              "ownerid": 30096,
+              "phonenum": [
+                "12345678901"
+              ],
+              "registedcount": 7,
+              "intrestedcount": 12,
+              "detail_url": "http://www.zhisland.com/index.php?app=mobile&mod=Cact&act=index&id=10100&uid=30376",
+              "is_recommend": false,
+              "is_official": false,
+              "isforAll": 1,
+              "is_new": 0,
+              "rank": 5,
+              "avatar_url": "http://img.zhd.zhisland.com/activity/acttype_19.jpg",
+              "state": "已结束",
+              "state_type": 4
+            }
+          },
+          {
+            "result_num": 1,
+            "result_names": [
+              "杨飞"
+            ],
+            "item_data": {
+              "id": 10100,
+              "name": "创新大集",
+              "activity_type": "IT互联网",
+              "start_time": 1412140912,
+              "end_time": 1412140912,
+              "reg_time": 1412313712,
+              "location": "北京市五道口",
+              "owner": "szj1",
+              "ownerid": 30096,
+              "phonenum": [
+                "12345678901"
+              ],
+              "registedcount": 7,
+              "intrestedcount": 12,
+              "detail_url": "http://www.zhisland.com/index.php?app=mobile&mod=Cact&act=index&id=10100&uid=30376",
+              "is_recommend": false,
+              "is_official": false,
+              "isforAll": 1,
+              "is_new": 0,
+              "rank": 5,
+              "avatar_url": "http://img.zhd.zhisland.com/activity/acttype_19.jpg",
+              "state": "已结束",
+              "state_type": 4
+            }
+          },
+          {
+            "result_num": 6,
+            "result_names": [
+              "杨飞",
+              "兔子",
+              "兔子2",
+              "兔子3",
+              "兔子4",
+			  "兔子5"
+            ],
+            "item_data": {
+              "id": 10100,
+              "name": "创新大集",
+              "activity_type": "IT互联网",
+              "start_time": 1412140912,
+              "end_time": 1412140912,
+              "reg_time": 1412313712,
+              "location": "北京市五道口",
+              "owner": "szj1",
+              "ownerid": 30096,
+              "phonenum": [
+                "12345678901"
+              ],
+              "registedcount": 7,
+              "intrestedcount": 12,
+              "detail_url": "http://www.zhisland.com/index.php?app=mobile&mod=Cact&act=index&id=10100&uid=30376",
+              "is_recommend": false,
+              "is_official": false,
+              "isforAll": 1,
+              "is_new": 0,
+              "rank": 5,
+              "avatar_url": "http://img.zhd.zhisland.com/activity/acttype_19.jpg",
+              "state": "已结束",
+              "state_type": 4
+            }
+          }
+        ]
+      },
+      {
+		"result_title": "活动内容",
+		"result_type":3,
+		"more_data":1,
+        "result_data": [
+          {
+            "result_num": 2,
+            "item_data": {
+              "id": 10100,
+              "name": "创新大集",
+              "activity_type": "IT互联网",
+              "start_time": 1412140912,
+              "end_time": 1412140912,
+              "reg_time": 1412313712,
+              "location": "北京市五道口",
+              "owner": "szj1",
+              "ownerid": 30096,
+              "phonenum": [
+                "12345678901"
+              ],
+              "registedcount": 7,
+              "intrestedcount": 12,
+              "detail_url": "http://www.zhisland.com/index.php?app=mobile&mod=Cact&act=index&id=10100&uid=30376",
+              "is_recommend": false,
+              "is_official": false,
+              "isforAll": 1,
+              "is_new": 0,
+              "rank": 5,
+              "avatar_url": "http://img.zhd.zhisland.com/activity/acttype_19.jpg",
+              "state": "已结束",
+              "state_type": 4
+            }
+          },
+          {
+            "result_num": 1,
+            "item_data": {
+              "id": 10100,
+              "name": "创新大集",
+              "activity_type": "IT互联网",
+              "start_time": 1412140912,
+              "end_time": 1412140912,
+              "reg_time": 1412313712,
+              "location": "北京市五道口",
+              "owner": "szj1",
+              "ownerid": 30096,
+              "phonenum": [
+                "12345678901"
+              ],
+              "registedcount": 7,
+              "intrestedcount": 12,
+              "detail_url": "http://www.zhisland.com/index.php?app=mobile&mod=Cact&act=index&id=10100&uid=30376",
+              "is_recommend": false,
+              "is_official": false,
+              "isforAll": 1,
+              "is_new": 0,
+              "rank": 5,
+              "avatar_url": "http://img.zhd.zhisland.com/activity/acttype_19.jpg",
+              "state": "已结束",
+              "state_type": 4
+            }
+          },
+          {
+            "result_num": 4,
+            "item_data": {
+              "id": 10100,
+              "name": "创新大集",
+              "activity_type": "IT互联网",
+              "start_time": 1412140912,
+              "end_time": 1412140912,
+              "reg_time": 1412313712,
+              "location": "北京市五道口",
+              "owner": "szj1",
+              "ownerid": 30096,
+              "phonenum": [
+                "12345678901"
+              ],
+              "registedcount": 7,
+              "intrestedcount": 12,
+              "detail_url": "http://www.zhisland.com/index.php?app=mobile&mod=Cact&act=index&id=10100&uid=30376",
+              "is_recommend": false,
+              "is_official": false,
+              "isforAll": 1,
+              "is_new": 0,
+              "rank": 5,
+              "avatar_url": "http://img.zhd.zhisland.com/activity/acttype_19.jpg",
+              "state": "已结束",
+              "state_type": 4
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
